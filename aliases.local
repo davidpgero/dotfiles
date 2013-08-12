@@ -3,4 +3,4 @@ alias ssh-con="ssh -i ~/.ssh/id_rsa $1@$2 -p $3"
 alias scp-con="scp -i ~/.ssh/id_rsa -P $1@$2:$3 ."
 alias diff2folder="diff <(ls -lr $1) <(ls -lr $2)"
 
-lias c='clear'
+alias c='clear'
