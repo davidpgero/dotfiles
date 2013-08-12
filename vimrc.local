@@ -1,2 +1,6 @@
 imap jj <ESC>
 let g:ctrlp_working_path_mode = 'ra'
+
+colorscheme codeschool
+set guifont=Monaco:h12
+
