@@ -36,3 +36,5 @@ alias z="zeus"
 
 # Include custom aliases
 [[ -f ~/.aliases.local ]] && source ~/.aliases.local
+[[ -f ~/.aliases.$USER ]] && source ~/.aliases.$USER
+alias bower='noglob bower'

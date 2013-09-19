@@ -1,3 +1,2 @@
 ZSH_THEME="miloshadzic"
-
-plugins=(rvm ruby git rails3 brew bundler coffee mercurial redic-cli sublime tmux vagrant zeus)
+plugins=(rvm ruby git rails3 brew bundler coffee mercurial redic-cli sublime tmux vagrant zeus node)
