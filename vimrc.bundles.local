@@ -1,2 +1,6 @@
 Bundle 'dandorman/vim-colors'
 Bundle 'vim-scripts/ZoomWin'
+Bundle 'majutsushi/tagbar'
+Bundle 'tpope/vim-surround'
+Bundle 'jeetsukumaran/vim-buffergator'
+
