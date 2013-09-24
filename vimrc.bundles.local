@@ -3,4 +3,6 @@ Bundle 'vim-scripts/ZoomWin'
 Bundle 'majutsushi/tagbar'
 Bundle 'tpope/vim-surround'
 Bundle 'jeetsukumaran/vim-buffergator'
+Bundle 'tpope/vim-endwise'
+Bundle 'msanders/snipmate.vim'
 
